@@ -85,7 +85,8 @@ public class DList<Item> implements Iterable<Item> {
      * @param next may be null, in which case the item will be the only item on the list
      */
     public void addBeforeElement(Item item, D_Element next) {
-        // TODO
+        // TO BE IMPLEMENTED ...
+        // ... END IMPLEMENTATION
     }
 
     /**
@@ -95,7 +96,8 @@ public class DList<Item> implements Iterable<Item> {
      * @param prev may NOT be null
      */
     public void addAfterElement(Item item, D_Element prev) {
-        // TODO
+        // TO BE IMPLEMENTED ...
+        // ... END IMPLEMENTATION
     }
 
     /**
@@ -104,16 +106,19 @@ public class DList<Item> implements Iterable<Item> {
      * @param element the element to be removed.
      */
     public void remove(D_Element element) {
-        // TODO
+        // TO BE IMPLEMENTED ...
+        // ... END IMPLEMENTATION
     }
 
     public D_Element findFirst(Item item) {
-        // TODO
+        // TO BE IMPLEMENTED ...
+        // ... END IMPLEMENTATION
         return null;
     }
 
     public D_Element findLast(Item item) {
-        // TODO
+        // TO BE IMPLEMENTED ...
+        // ... END IMPLEMENTATION
         return null;
     }
 

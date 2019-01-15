@@ -122,8 +122,7 @@ public class BSTSimple<Key extends Comparable<Key>, Value> implements BSTdetail<
 
     private Node delete(Node x, Key key) {
         // TO BE IMPLEMENTED ...
-
-        // ... end of TO BE IMPLEMENTED
+        // ... END IMPLEMENTATION
         return x;
     }
 

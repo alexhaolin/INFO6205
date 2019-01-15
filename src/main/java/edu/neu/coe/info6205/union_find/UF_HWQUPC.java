@@ -163,15 +163,17 @@ public class UF_HWQUPC implements UF {
     private boolean pathCompression = false;
 
     private void mergeComponents(int i, int j) {
-        // TODO make shorter root point to taller one
+        // TO BE IMPLEMENTED ... make shorter root point to taller one
         throw new RuntimeException("not implemented");
+        // ... END IMPLEMENTATION
     }
 
     /**
      * This implements the single-pass path-halving mechanism of path compression
      */
     private void doPathCompression(int i) {
-        // TODO update parent to value of grandparent
+        // TO BE IMPLEMENTED ... update parent to value of grandparent
         throw new RuntimeException("not implemented");
+        // ... END IMPLEMENTATION
     }
 }

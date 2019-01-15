@@ -69,7 +69,9 @@ public class Benchmark<T> {
      * @return the average number of milliseconds taken for each run of function f.
      */
     public double run(T t, int m) {
-         return 0;  // TO BE IMPLEMENTED
+        // TO BE IMPLEMENTED ...  Sorry, but you have to do this one yourself!
+        return 0;
+        // ... END IMPLEMENTATION
     }
 
     private final Function<T, T> fPre;

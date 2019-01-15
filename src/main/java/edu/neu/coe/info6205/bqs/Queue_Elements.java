@@ -22,7 +22,8 @@ public class Queue_Elements<Item> implements Iterable<Item>, Queue<Item>  {
      * @param item the item to add
      */
     public void enqueue( Item item) {
-        // TODO
+        // TO BE IMPLEMENTED ...
+        // ... END IMPLEMENTATION
     }
 
 
@@ -34,7 +35,8 @@ public class Queue_Elements<Item> implements Iterable<Item>, Queue<Item>  {
     public Item dequeue() {
         if (isEmpty()) return null;
         else {
-            // TODO
+            // TO BE IMPLEMENTED ...
+            // ... END IMPLEMENTATION
             return null;
         }
     }

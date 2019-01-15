@@ -22,7 +22,8 @@ public class FrequencyCounter<K> {
     }
 
     public void increment(K s) {
-        // TODO implement me
+        // TO BE IMPLEMENTED ...
+        // ... END IMPLEMENTATION
     }
 
     public String toString() {

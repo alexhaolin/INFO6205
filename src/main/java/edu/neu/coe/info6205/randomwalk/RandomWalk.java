@@ -20,7 +20,8 @@ public class RandomWalk {
      * @param dy the distance he moves in the y direction
      */
     private void move(int dx, int dy) {
-        // TODO you need to implement this
+        // TO BE IMPLEMENTED ...
+        // ... END IMPLEMENTATION
     }
 
     /**
@@ -29,7 +30,8 @@ public class RandomWalk {
      * @param n the number of steps the drunkard takes
      */
     public void randomWalk(int n) {
-        // TODO perform n moves
+        // TO BE IMPLEMENTED ... (n random moves)
+        // ... END IMPLEMENTATION
     }
 
     /**
@@ -48,7 +50,9 @@ public class RandomWalk {
      * @return the (Euclidean) distance from the origin to the current position.
      */
     public double distance() {
-        return 0; // TODO you need to implement this
+        // TO BE IMPLEMENTED ...
+        return 0;
+        // ... END IMPLEMENTATION
     }
 
     /**
