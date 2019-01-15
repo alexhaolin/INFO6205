@@ -17,7 +17,7 @@ public class InsertionSort<X extends Comparable<X>> implements Sort<X> {
 
     @Override
     public void sort(X[] xs, int from, int to) {
-        // TODO implement insertionSort
+        // TO BE IMPLEMENTED
     }
 
     @Override
