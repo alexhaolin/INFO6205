@@ -10,14 +10,9 @@ public class BinarySearch {
 
     static int binarySearch(int a[], int lo, int hi, int key)
     {
-        //TODO:: implement binary search
-        while (lo <= hi) {
-            int mid = lo + (hi - lo)/2;
-            int x = a[mid];
-            if (key < x) hi = mid-1;
-            else if (key > x) lo = mid+1;
-            if (key == x) return mid;
-        }
+        //TO BE IMPLEMENTED :: implement binary search
+
+        // ... end of TO BE IMPLEMENTED
         return -1;
 
     }

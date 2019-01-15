@@ -43,6 +43,10 @@ public class BSTSimple<Key extends Comparable<Key>, Value> implements BSTdetail<
         return nodeValue.value;
     }
 
+    public void delete(Key key) {
+        root = delete(root, key);
+    }
+
     @Override
     public void deleteMin() {
         root = deleteMin(root);
@@ -117,7 +121,9 @@ public class BSTSimple<Key extends Comparable<Key>, Value> implements BSTdetail<
     }
 
     private Node delete(Node x, Key key) {
-        // TO BE IMPLEMENTED
+        // TO BE IMPLEMENTED ...
+
+        // ... end of TO BE IMPLEMENTED
         return x;
     }
 
