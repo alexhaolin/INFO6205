@@ -80,8 +80,8 @@ public class UF_HWQUPC implements UF {
     public int find(int p) {
         validate(p);
         int root = p;
-        // TO BE IMPLEMENTED...
-        // ... end of TO BE IMPLEMENTED
+        // TO BE IMPLEMENTED ...
+        // ... END IMPLEMENTATION
         return root;
     }
 
